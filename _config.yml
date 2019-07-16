@@ -17,7 +17,7 @@ title: Umit Kabuli - Learn C
 email: umitkabuli@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This site was established to teach beginner, intermediate and advanced C language.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/learn-c" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: umitkabuli
 github_username:  umitkabuli
