@@ -2,7 +2,7 @@
 layout: post
 title:  "First C Program: Hello World"
 date:   2019-07-16 23:45:44 +0300
-categories: jekyll update
+categories: learn-c
 ---
 
 {% highlight c %}
