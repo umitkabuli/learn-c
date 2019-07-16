@@ -9,7 +9,7 @@ categories: learn-c
 #The following line is required to use standard library functions
 #include <stdio.h>
 #Each C program has only one main function
-# Return value type of the function is int 
+#Return value type of the function is int 
 int main() {
    printf("Hello World!\n");
    return 0;
